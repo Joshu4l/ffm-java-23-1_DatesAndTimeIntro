@@ -20,8 +20,8 @@ Berechne die Differenz in Tagen zwischen zwei beliebigen Daten und gib das Ergeb
 
 * Schreibe eine Klasse Friend an und füge ihr ein Attribut birthday und name hinzu.
 
-* Lege eine Instanz der Klasse Animal an.
+* Lege eine Instanz der Klasse Friend an.
 
-* Gib auf der Kommandozeile aus, wie viele Tage es bis zum nächsten Geburtstag des Tieres sind
+* Gib auf der Kommandozeile aus, wie viele Tage es bis zum nächsten Geburtstag des Freundes sind
 
 * Achtung: Überlege, ob Du den Geburtstag mit oder ohne Zeitzone speichern solltest. Was ist sinnvoller?
