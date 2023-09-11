@@ -18,7 +18,7 @@ Berechne die Differenz in Tagen zwischen zwei beliebigen Daten und gib das Ergeb
 
 ## BONUSAUFGABE
 
-* Schreibe eine Klasse Animal an und füge ihr ein Attribut birthday und name hinzu.
+* Schreibe eine Klasse Friend an und füge ihr ein Attribut birthday und name hinzu.
 
 * Lege eine Instanz der Klasse Animal an.
 
